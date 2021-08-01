@@ -1,5 +1,5 @@
 # Java-and-Framework
-This repository is history about learn to use java and framework
+This repository is a history of Java and learn to use the framework.
 
 ## Java
 
